@@ -2,6 +2,10 @@
 
 This project demonstrates a fully serverless, scalable data pipeline built with AWS services to automate the ingestion, transformation, storage, and querying of semi-structured JSON data.
 
+# AWS Serverless End-to-End ETL Pipeline
+
+![image alt](https://github.com/BhaskarKosala/Serverless-JSON-to-Parquet-Data-Pipeline-with-AWS-Lambda-S3-Glue-and-Athena/blob/7cc2d2f681e6600889765a586090473fc74fb157/aws%20pipeline.jpg)
+
 ## 🚀 Project Overview
 
 - **Goal:** Convert incoming JSON files into Parquet format, catalog the data using AWS Glue, and enable analysis using AWS Athena.
