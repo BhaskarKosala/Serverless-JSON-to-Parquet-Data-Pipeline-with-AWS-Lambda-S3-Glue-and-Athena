@@ -1,0 +1,1 @@
+# Serverless-JSON-to-Parquet-Data-Pipeline-with-AWS-Lambda-S3-Glue-and-Athena
